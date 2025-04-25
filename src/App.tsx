@@ -1,7 +1,7 @@
 // App.tsx
 import React from "react";
-import Sidebar from "../layout/Sidebar";
-import Header from "../layout/Header";
+import Sidebar from "./layout/Sidebar";
+import Header from "./layout/Header";
 import ExpenseTable from "./components/ExpenseTable";
 
 function App() {

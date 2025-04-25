@@ -22,5 +22,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "layout/Header.tsx", "layout/Sidebar.tsx"]
+  "include": ["src", "src/layout/Header.tsx", "src/layout/Sidebar.tsx"]
 }
